@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>SecureP2P</string>
+    <key>CFBundleIdentifier</key><string>com.secure.p2p.portable</string>
+    <key>CFBundleExecutable</key><string>JavaLauncher</string>
+    <key>CFBundleIconFile</key><string>app_icon.icns</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>NSHighResolutionCapable</key><true/>
+</dict>
+</plist>
