@@ -1,21 +1,5 @@
-# 封鎖 Java 編譯產生的位元碼與打包暫存
+﻿Chooser.exe
+*.obj
 *.class
-*.jar
-*.war
-
-# 封鎖防禦系統執行時產生的本機動態 JSON 資料庫
-banned_ip.json
-whitelist.json
+out/
 .installed
-
-# 封鎖 IDE 產生的設定檔
-.settings/
-.project
-.classpath
-.idea/
-*.iml
-*.DS_Store
-
-# 封鎖大體積的螢幕截圖與側錄影片
-*.mp4
-*.png
